@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kadagi.github.io/Pan/sitemap.Pan.gz
